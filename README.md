@@ -11,6 +11,7 @@ Examples:
 ./inputConverter toNumbers file.txt  
 
 **ASCII file structure**  
+```
 1st polyomino
 [enter]
 2nd polyomino
@@ -18,6 +19,7 @@ Examples:
 .
 .
 .
+```
 
 ASCII file example:  
 ```
