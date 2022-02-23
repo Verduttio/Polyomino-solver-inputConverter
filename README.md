@@ -1,6 +1,6 @@
 # Polyomino-solver-inputConverter
 
-This program converts polyominoes in ASCII representation to their number representation (block coordinates).  
+This program converts polyominoes in ASCII representation to their number representation (block coordinates) and vice versa.  
 This is an extension for `Polyomino-solver` repository.
 
 Usage:  
